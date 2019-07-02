@@ -1,0 +1,24 @@
+.tab {
+  width: 100%;
+  height: 50px;
+}
+
+.tablinks, #mapBtn {
+width:100%;
+ height:100%;
+  float: left;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  color: #fff;
+  background-color: #f9d423;
+}
+
+
+.tablinks.active {
+  color: #fff;
+  background-color: #f9d423;
+}
+.tabcontent{
+    padding:10px;
+}
